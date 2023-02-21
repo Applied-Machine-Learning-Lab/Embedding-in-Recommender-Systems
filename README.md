@@ -36,7 +36,7 @@
 | Lightrec/WWW | [Lightrec: A memory and search-efficient recommender system](https://dl.acm.org/doi/abs/10.1145/3366423.3380151) |  |
 | PQCF/TKDE | [Product quantized collaborative filtering](https://ieeexplore.ieee.org/abstract/document/8950031) |  |
 | Distill-vq/SIGIR | [Distill-vq: Learning retrieval oriented vector quantization by distilling knowledge from dense embeddings](https://dl.acm.org/doi/abs/10.1145/3477495.3531799) |  |
-| xLightFM/SIGIR | [xLightFM: Extremely Memory-Efficient Factorization Machine](https://dl.acm.org/doi/abs/10.1145/3404835.3462941 |  |
+| xLightFM/SIGIR | [xLightFM: Extremely Memory-Efficient Factorization Machine](https://dl.acm.org/doi/abs/10.1145/3404835.3462941) |  |
 | Online PQ/TKDE | [Online product quantization](https://ieeexplore.ieee.org/abstract/document/8320306) |  |
 | Online OPQ/ICDM| [Online Optimized Product Quantization](https://ieeexplore.ieee.org/abstract/document/9338380)|  |
 | Online AQ/KDD | [Online additive quantization](https://dl.acm.org/doi/abs/10.1145/3447548.3467441) |  |
@@ -53,5 +53,6 @@
 |  |  |  |
 |  |  |  |
 ## Survey
+1.A survey of vq codebook generation
 
 
