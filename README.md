@@ -60,6 +60,18 @@
 | FBNE | [“Social boosted recommendation with folded bipartite network embedding,” IEEE Transactions on Knowledge and Data Engineering, 2020.](https://ieeexplore.ieee.org/abstract/document/9050415) |  |
 | BiNE | [“Learning vertex representations for bipartite networks,” IEEE Transactions on Knowledge and Data Engineering, 2020.](https://ieeexplore.ieee.org/abstract/document/9039683) |  |
 | LightGCN | [“Lightgcn:Simplifying and powering graph convolution network for recommendation,” in Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval, 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401063) |  |
+| PGE | [“Learning graph-based embedding for time-aware product recommendation,” in Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017, pp. 2163–2166.](https://dl.acm.org/doi/abs/10.1145/3132847.3133060) |  |
+| GEM | [“Joint eventpartner recommendation in event-based social networks,” in 2018 IEEE 34th International Conference on Data Engineering (ICDE). IEEE, 2018, pp. 929–940.](https://ieeexplore.ieee.org/abstract/document/8509309) |  |
+|  | [“A neural influence diffusion model for social recommendation,” in Proceedings of the 42nd international ACM SIGIR conference on research and development in information retrieval, 2019, pp. 235–244.](https://dl.acm.org/doi/abs/10.1145/3331184.3331214) |  |
+| GraphRec | [“Graph neural networks for social recommendation,” in The world wide web conference, 2019, pp. 417–426.](https://dl.acm.org/doi/abs/10.1145/3308558.3313488) |  |
+| Diffnet++ | [“Diffnet++: A neural influence and interest diffusion network for social recommendation,” IEEE Transactions on Knowledge and Data Engineering, 2020.](https://ieeexplore.ieee.org/abstract/document/9311623) |  |
+|  | [“Billion-scale commodity embedding for e-commerce recommendation in alibaba,” in Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2018, pp. 839– 848.](https://dl.acm.org/doi/abs/10.1145/3219819.3219869) |  |
+|  | [“Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems,” in The World Wide Web Conference, 2019, pp. 2091–2102.](https://dl.acm.org/doi/abs/10.1145/3308558.3313442) |  |
+| TransGRec | [“Learning to transfer graph embeddings for inductive graph based recommendation,” in Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval, 2020, pp. 1211–1220.](https://dl.acm.org/doi/abs/10.1145/3397271.3401145) |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
 
 
 ## Application
