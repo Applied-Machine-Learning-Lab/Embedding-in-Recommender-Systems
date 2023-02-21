@@ -26,8 +26,7 @@
 ## Quantization
 | Name | Paper | code |
 | :-----| :-----| :----- |
-| DPR | [Discrete personalized ranking for
-fast collaborative filtering from implicit feedback](https://ojs.aaai.org/index.php/AAAI/article/view/10764) |  |
+| DPR | [Discrete personalized ranking for fast collaborative filtering from implicit feedback](https://ojs.aaai.org/index.php/AAAI/article/view/10764) |  |
 |  |  |  |
 
 ## Graph
