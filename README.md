@@ -53,13 +53,13 @@
 | HGCN | [“Hyperbolic graph convolutional neural networks,” Advances in neural information processing systems, vol. 32, 2019.](https://proceedings.neurips.cc/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html) |  |
 | M2GRL | [“M2grl: A multitask multi-view graph representation learning framework for web-scale recommender systems,” in Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining, 2020, pp. 2349–2358.](https://dl.acm.org/doi/abs/10.1145/3394486.3403284) |  |
 | DGENN | [“Dual graph enhanced embedding neural network for ctr prediction,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 496–504.](https://dl.acm.org/doi/abs/10.1145/3447548.3467384) |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
+| Star-GCN | [“Star-gcn: Stacked and reconstructed graph convolutional networks for recommender systems,” in IJCAI, 2019.](https://arxiv.org/abs/1905.13129) |  |
+| NGCF | [“Neural graph collaborative filtering,” in Proceedings of the 42nd international ACM SIGIR conference on Research and development in Information Retrieval, 2019, pp. 165–174.](https://dl.acm.org/doi/abs/10.1145/3331184.3331267) |  |
+| UltraGCN | [“Ultragcn: ultra simplification of graph convolutional networks for recommendation,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 1253–1262.](https://dl.acm.org/doi/abs/10.1145/3459637.3482291) |  |
+| CSE | [“Collaborative similarity embedding for recommender systems,” in The World Wide Web Conference, 2019, pp. 2637–2643 (https://dl.acm.org/doi/abs/10.1145/3308558.3313493) |  |
+| FBNE | [ “Social boosted recommendation with folded bipartite network embedding,” IEEE Transactions on Knowledge and Data Engineering, 2020. (https://ieeexplore.ieee.org/abstract/document/9050415) |  |
+| BiNE | [“Learning vertex representations for bipartite networks,” IEEE Transactions on Knowledge and Data Engineering, 2020.](https://ieeexplore.ieee.org/abstract/document/9039683) |  |
+| LightGCN | [“Lightgcn:Simplifying and powering graph convolution network for recommendation,” in Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval, 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401063) |  |
 
 
 ## Application
