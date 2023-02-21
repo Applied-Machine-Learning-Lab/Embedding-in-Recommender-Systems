@@ -46,19 +46,22 @@
 | :-----| :-----| :----- |
 | Birank/TKDE | [“Birank: Towards ranking on bipartite graphs,” IEEE Transactions on Knowledge and Data Engineering, vol. 29, no. 1, pp. 57–71, 2016.](https://ieeexplore.ieee.org/abstract/document/7572089) |  |
 | Deepwalk | [“Deepwalk: Online learning of social representations,” in Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining,2014](https://dl.acm.org/doi/abs/10.1145/2623330.2623732) |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| APP | [“Scalable graph embedding for asymmetric proximity,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 31, no. 1, 2017.](https://ojs.aaai.org/index.php/AAAI/article/view/10878) |  |
+| DNE | [“Direction-aware user recommendation based on asymmetric network embedding,” ACM Transactions on Information Systems (TOIS), vol. 40, no. 2, pp. 1–23, 2021.](https://dl.acm.org/doi/abs/10.1145/3466754) |  |
+| LINE | [Line: Large-scale information network embedding,” in Proceedings of the 24th international conference on world wide web, 2015, pp. 1067–1077.](https://dl.acm.org/doi/abs/10.1145/2736277.2741093) |  |
+| HyperSoRec | [ Exploiting hyperbolic user and item representations with multiple aspects for social-aware recommendation,” ACM Transactions on Information Systems (TOIS), vol. 40, no. 2, pp. 1–28, 2021.](https://dl.acm.org/doi/abs/10.1145/3463913) |  |
+| HGCN | [“Hyperbolic graph convolutional neural networks,” Advances in neural information processing systems, vol. 32, 2019.](https://proceedings.neurips.cc/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html) |  |
+| M2GRL | [“M2grl: A multitask multi-view graph representation learning framework for web-scale recommender systems,” in Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining, 2020, pp. 2349–2358.](https://dl.acm.org/doi/abs/10.1145/3394486.3403284) |  |
+
+| DGENN | [“Dual graph enhanced embedding neural network for ctr prediction,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 496–504.](https://dl.acm.org/doi/abs/10.1145/3447548.3467384) |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
+|  | []() |  |
+
 
 ## Application
 | Name | Paper | code |
