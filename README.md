@@ -1,4 +1,4 @@
-# Embedding-in-Recommender-Systems-A-Survey
+# Embedding-in-Recommender-Systems
 
 ## CF & MF
 | Name | Paper | code |
