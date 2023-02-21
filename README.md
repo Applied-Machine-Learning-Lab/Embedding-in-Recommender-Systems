@@ -24,9 +24,17 @@
 |  |  |  |
 
 ## Quantization
-| Name | Paper | code |
+| Name/Conf | Paper | code |
 | :-----| :-----| :----- |
-| DPR | [Discrete personalized ranking for fast collaborative filtering from implicit feedback](https://ojs.aaai.org/index.php/AAAI/article/view/10764) |  |
+| DPR/AAAI | [Discrete personalized ranking for fast collaborative filtering from implicit feedback](https://ojs.aaai.org/index.php/AAAI/article/view/10764) |  |
+| DDL/WSDM |  [Discrete deep learning for fast content-aware recommendation](https://dl.acm.org/doi/abs/10.1145/3159652.3159688)|  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 
 ## Graph
