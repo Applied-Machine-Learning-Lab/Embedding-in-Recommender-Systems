@@ -83,8 +83,7 @@
 | DANSER/WWW | [“Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems,” in The World Wide Web Conference, 2019, pp. 2091–2102.](https://dl.acm.org/doi/abs/10.1145/3308558.3313442) |  |
 | TransGRec/SIGIR | [“Learning to transfer graph embeddings for inductive graph based recommendation,” in Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval, 2020, pp. 1211–1220.](https://dl.acm.org/doi/abs/10.1145/3397271.3401145) |  |
 | GHL\CIKM | [“Gated heterogeneous graph representation learning for shop search in e-commerce,” in Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020.](https://dl.acm.org/doi/abs/10.1145/3340531.3412087) |  |
-| TransE/Neurips | [“Translating embeddings for modeling multi-relational data,” Advances
-in neural information processing systems, 2013.](https://proceedings.neurips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html) |  |
+| TransE/Neurips | [“Translating embeddings for modeling multi-relational data,” Advances in neural information processing systems, 2013.](https://proceedings.neurips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html) |  |
 | TransH\AAAI | [“Knowledge graph embedding by translating on hyperplanes,” in Proceedings of the AAAI conference on artificial intelligence, 2014.](https://ojs.aaai.org/index.php/AAAI/article/view/8870) |  |
 | TransR/AAI | [“Learning entity and relation embeddings for knowledge graph completion,” in Proceedings of the AAAI conference on artificial intelligence, 2015.](https://ojs.aaai.org/index.php/AAAI/article/view/9491) |  |
 | KGAT/KDD | [Kgat: Knowledge graph attention network for recommendation,” in Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, 2019.](https://dl.acm.org/doi/abs/10.1145/3292500.3330989) |  |
