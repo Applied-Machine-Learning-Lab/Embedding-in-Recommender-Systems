@@ -26,16 +26,18 @@
 ## Quantization
 | Name | Paper | code |
 | :-----| :-----| :----- |
-| DPR/AAAI | [Discrete personalized ranking for fast collaborative filtering from implicit feedback](https://ojs.aaai.org/index.php/AAAI/article/view/10764) |  |
-| DDL/WSDM |  [Discrete deep learning for fast content-aware recommendation](https://dl.acm.org/doi/abs/10.1145/3159652.3159688)|  |
-| PQ/TPAMI | [Product quantization for nearest neighbor search](https://ieeexplore.ieee.org/abstract/document/5432202/) |  |
-| OPQ/TPAMI | [Optimized product quantization](https://ieeexplore.ieee.org/abstract/document/6678503) |  |
-| AQ/CVPR | [Additive quantization for extreme vector compression](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Babenko_Additive_Quantization_for_2014_CVPR_paper.html) |  |
-| DPQ/ICML | [Differentiable product quantization for end-to-end embedding compression](https://proceedings.mlr.press/v119/chen20l.html) |  |
-| DQN/AAAI | [Deep quantization network for efficient image retrieval](http://yue-cao.me/doc/deep-quantization-networks-dqn-aaai16.pdf) |  |
-| Lightrec/WWW | [Lightrec: A memory and search-efficient recommender system](https://dl.acm.org/doi/abs/10.1145/3366423.3380151) |  |
-| PQCF/TKDE | [Product quantized collaborative filtering](https://ieeexplore.ieee.org/abstract/document/8950031) |  |
-| Distill-vq/SIGIR | [Distill-vq: Learning retrieval oriented vector quantization by distilling knowledge from dense embeddings](https://dl.acm.org/doi/abs/10.1145/3477495.3531799) |  |
+| DPR/AAAI | [“Discrete personalized ranking for fast collaborative filtering from implicit feedback,” in Proceedings of the AAAI Conference on Artificial Intelligence,2017.](https://ojs.aaai.org/index.php/AAAI/article/view/10764) |  |
+| DDL/WSDM |  [“Discrete deep learning for fast content-aware recommendation,” in Proceedings of the eleventh ACM international conference on web search and data mining, 2018.](https://dl.acm.org/doi/abs/10.1145/3159652.3159688)|  |
+| PQ/TPAMI | [ “Product quantization for nearest neighbor search,” IEEE transactions on pattern analysis and machine intelligence,2010.](https://ieeexplore.ieee.org/abstract/document/5432202/) |  |
+| OPQ/TPAMI | [“Optimized product quantization,” IEEE transactions on pattern analysis and machine intelligence, 2013.](https://ieeexplore.ieee.org/abstract/document/6678503) |  |
+| AQ/CVPR | [“Additive quantization for extreme vector compression,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2014.](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Babenko_Additive_Quantization_for_2014_CVPR_paper.html) |  |
+| DPQ/ICML | [“Differentiable product quantization for
+end-to-end embedding compression,” in International Conference on
+Machine Learning, 2020.](https://proceedings.mlr.press/v119/chen20l.html) |  |
+| DQN/AAAI | [“Deep quantization network for efficient image retrieval,” in Proc. 13th AAAI Conf. Artif. Intell., 2016.](http://yue-cao.me/doc/deep-quantization-networks-dqn-aaai16.pdf) |  |
+| Lightrec/WWW | [“Lightrec: A memory and search-efficient recommender system,” in Proceedings of The Web Conference 2020.](https://dl.acm.org/doi/abs/10.1145/3366423.3380151) |  |
+| PQCF/TKDE | [“Product quantized collaborative filtering,” IEEE Transactions on Knowledge and Data Engineering, 2020.](https://ieeexplore.ieee.org/abstract/document/8950031) |  |
+| Distill-vq/SIGIR | [“Distill-vq: Learning retrieval oriented vector quantization by distilling knowledge from dense embeddings, SIGIR, 2020.”](https://dl.acm.org/doi/abs/10.1145/3477495.3531799) |  |
 | xLightFM/SIGIR | [“xlightfm:Extremely memory-efficient factorization machine,” in Proceedingsof the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021, pp. 337–346.](https://dl.acm.org/doi/abs/10.1145/3404835.3462941) |  |
 | Online PQ/TKDE | [“Online product quantization,” IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 11, pp. 2185–2198, 2018.](https://ieeexplore.ieee.org/abstract/document/8320306) |  |
 | Online OPQ/ICDM| [“Online optimized product quantization,” in 2020 ICDM](https://ieeexplore.ieee.org/abstract/document/9338380)|  |
