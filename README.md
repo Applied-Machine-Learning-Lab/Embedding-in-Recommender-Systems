@@ -70,8 +70,7 @@
 | SGL/SIGIR | [“Self-supervised graph learning for recommendation,” in Proceedings of the 44th international ACM SIGIR conference on research and development in information retrieval, 2021, pp. 726–735.](https://dl.acm.org/doi/abs/10.1145/3404835.3462862) |  |
 | HHGR/CIKM | [“Double-scale self-supervised hypergraph learning for group recommendation,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 2557–2567.](https://dl.acm.org/doi/abs/10.1145/3459637.3482426) |  |
 | CCDR/KDD | [“Contrastive cross-domain recommendation in matching,” in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022, pp. 4226–4236.](https://dl.acm.org/doi/abs/10.1145/3534678.3539125) |  |
-| PCRec | [“Pre-training graph neural network for cross domain recommendation,” in 2021 IEEE Third International Conference on Cognitive Machine Intelligence
-(CogMI). IEEE, 2021, pp. 140–145](https://ieeexplore.ieee.org/abstract/document/9750359) |  |
+| PCRec | [“Pre-training graph neural network for cross domain recommendation,” in 2021 IEEE Third International Conference on Cognitive Machine Intelligence(CogMI). IEEE, 2021, pp. 140–145](https://ieeexplore.ieee.org/abstract/document/9750359) |  |
 | DCL | [“Contrastive learning for recommender system,” arXiv preprint arXiv:2101.01317, 2021.](https://arxiv.org/abs/2101.01317) |  |
 | CLS4Rec/ICDE | [“Contrastive learning for sequential recommendation,” in 2022 IEEE 38th International Conference on Data Engineering (ICDE). IEEE, 2022, pp. 1259–1273.](https://ieeexplore.ieee.org/abstract/document/9835621) |  |
 | CoSeRec | [Z. Liu, Y. Chen, J. Li, P. S. Yu, J. McAuley, and C. Xiong, “Contrastive self-supervised sequential recommendation with robust augmentation,” arXiv preprint arXiv:2108.06479, 2021.](https://arxiv.org/abs/2108.06479) |  |
