@@ -144,35 +144,11 @@
 | DyGNN/SIGIR | [“Streaming graph neural networks,” in Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020](https://dl.acm.org/doi/abs/10.1145/3397271.3401092) |  |
 | ROLAND/KDD | [“Roland: graph learning framework for dynamic graphs,” in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022,](https://dl.acm.org/doi/10.1145/3534678.3539300) |  |
 | GEAR/WSDM | [“Learning fair node representations with graph counterfactual fairness,” in Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining, 2022](https://dl.acm.org/doi/10.1145/3488560.3498391) |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-
 
 
 ## Application
 | Name | Paper | code |
 | :-----| :-----| :----- |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
-
 ## Survey
 1.A survey of vq codebook generation
 
