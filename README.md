@@ -53,8 +53,7 @@
 | DNIS| [“Differentiable neural input search for recommender systems,” arXiv preprint arXiv:2006.04466, 2020](https://arxiv.org/abs/2006.04466) |  |
 | AutoSrh/CIKM | [“Autoias: Automatic integrated architecture searcher for click-trough rate prediction,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 2101–2110]() |  |
 | AutoEMB/ICDM | [“Autoemb: Automated embedding dimensionality search in streaming recommendations,” in 2021 IEEE International Conference on Data Mining (ICDM).](https://ieeexplore.ieee.org/abstract/document/9679068) |  |
-| AutoDim/WWW | [“Autodim: Field-aware embedding dimension searchin recommender systems,” in Proceedings of the Web Conference 2021,2021, pp. 3015–3022.
-](https://ieeexplore.ieee.org/abstract/document/9679068) |  |
+| AutoDim/WWW | [“Autodim: Field-aware embedding dimension searchin recommender systems,” in Proceedings of the Web Conference 2021,2021, pp. 3015–3022.](https://ieeexplore.ieee.org/abstract/document/9679068) |  |
 | SSEDS/SIGIR | [“Single-shot embedding dimension search in recommender system,” arXiv preprint arXiv:2204.03281, 2022.](https://dl.acm.org/doi/abs/10.1145/3477495.3532060) |  |
 | RULE/KDD | [“Learning elastic embeddings for customizing on-device recommenders,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 138–147.](https://dl.acm.org/doi/abs/10.1145/3447548.3467220) |  |
 | PEP/ICLR | [“Learnable embedding sizes for recommender systems,” arXiv preprint arXiv:2101.07577, 2021.](https://arxiv.org/abs/2101.07577) |  |
