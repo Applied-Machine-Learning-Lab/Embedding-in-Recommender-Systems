@@ -3,19 +3,46 @@
 ## CF & MF
 | Name | Paper | code |
 | :-----| :-----| :----- |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
+| NSVD/KDDW | [“Improving regularized singular value decomposition for collaborative filtering,” in Proceedings of KDD cup and workshop, vol. 2007.](https://zhangyk8.github.io/teaching/file_spring2018/Improving_regularized_singular_value_decomposition_for_collaborative_filtering.pdf) |  |
+| SVD++/KDD | [“Factorization meets the neighborhood: a multifaceted collaborative filtering model,” in Proceedings of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining, 2008](https://dl.acm.org/doi/abs/10.1145/1401890.1401944) |  |
+| SVDfeature/JMLR | [“Svdfeature: a toolkit for feature-based collaborative filtering,” The Journal of Machine Learning Research, 2012](https://www.jmlr.org/papers/volume13/chen12a/chen12a.pdf) |  |
+| DELF/IJCAI | [“Delf: A dual-embedding based deep latent factor model for recommendation.” in IJCAI,](http://weiyu-cheng.com/Files/0462.pdf) |  |
+| SLIM/ICDM | [“Slim: Sparse linear methods for top-n recommender systems,” in 2011 IEEE 11th international conference on data mining. IEEE, 2011, pp. 497–506.](https://ieeexplore.ieee.org/abstract/document/6137254) |  |
+| FISM/KDD | [ “Fism: factored item similarity models for top-n recommender systems,” in Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining, 2013, pp. 659–667.](https://dl.acm.org/doi/abs/10.1145/2487575.2487589) |  |
+| NAIS/TKDE | [ “Nais: Neural attentive item similarity model for recommendation,” IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 12, pp. 2354–2366, 2018](https://ieeexplore.ieee.org/abstract/document/8352808/) |  |
+| BiasSVD | [“Matrix factorization techniques for recommender systems,” Computer, vol. 42, no. 8, pp. 30–37, 2009.](https://ieeexplore.ieee.org/abstract/document/5197422) |  |
+| TimeSVD/KDD | [“Collaborative filtering with temporal dynamics,” in Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, 2009.](https://dl.acm.org/doi/abs/10.1145/1557019.1557072) |  |
+| SGNS/Neurips | [“Neural word embedding as implicit matrix factorization,” Advances in neural information processing systems, vol. 27, 2014.](https://proceedings.neurips.cc/paper/2014/hash/feab05aa91085b7a8012516bc3533958-Abstract.html) |  |
+| ConvMF/Neurips | [ “Convolutional matrix factorization for document context-aware recommendation,” in Proceedings of the 10th ACM conference on recommender systems, 2016,pp. 233–240.](https://dl.acm.org/doi/abs/10.1145/2959100.2959165) |  |
+| FM/ICDM | [“Factorization machines,” in 2010 IEEE International conference on data mining. IEEE, 2010, pp. 995–1000.](https://ieeexplore.ieee.org/abstract/document/5694074/) |  |
+| FFM/Recsys | [“Field-aware factorization machines for ctr prediction,” in Proceedings of the 10th ACM conference on recommender systems, 2016, pp. 43–50.](https://dl.acm.org/doi/abs/10.1145/2959100.2959134) |  |
+| FNN/ECIR | [“Deep learning over multi-field categorical data,” in European conference on information retrieval. Springer, 2016, pp. 45–57.](https://link.springer.com/chapter/10.1007/978-3-319-30671-1_4) |  |
+| PNN/ICDM | [“Product-based neural networks for user response prediction,” in 2016 IEEE 16th International Conference on Data Mining (ICDM). IEEE, 2016, pp. 1149–1154.](https://ieeexplore.ieee.org/abstract/document/7837964/) |  |
+| NeuMF/SIGIR | [“Neural factorization machines for sparse predictive analytics,” in Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval, 2017, pp. 355–364.](https://dl.acm.org/doi/abs/10.1145/3077136.3080777) |  |
+| AFM | [“Attentional factorization machines: Learning the weight of feature interactions via attention networks,”](https://arxiv.org/abs/1708.04617) |  |
+| Wide & deep/DLRS | [“Wide & deep learning for recommender systems,” in Proceedings of the 1st workshop on deep learning for recommender systems, 2016, pp. 7–10](https://dl.acm.org/doi/abs/10.1145/2988450.2988454) |  |
+| DeepFM | [“DeepFM: a factorizationmachine based neural network for ctr prediction”,2017 ](https://arxiv.org/abs/1703.04247) |  |
+| DCN | [“Deep & cross network for ad click predictions,” in Proceedings of the ADKDD’17, 2017, pp. 1–7.](https://dl.acm.org/doi/abs/10.1145/3124749.3124754) |  |
+| xDeepFM/KDD | [“xdeepfm: Combining explicit and implicit feature interactions for recommender systems,” in Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery & data mining, 2018.](https://dl.acm.org/doi/abs/10.1145/3219819.3220023) |  |
+| Autoint/CIKM | [“Autoint: Automatic feature interaction learning via self-attentive neural networks,” in Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019](https://dl.acm.org/doi/abs/10.1145/3357384.3357925) |  |
 |  | []() |  |
 |  | []() |  |
 |  | []() |  |
 
+
+
+
+
 ## Hash
 | Name | Paper | code |
 | :-----| :-----| :----- |
-|  | []() |  |
-|  | []() |  |
-|  | []() |  |
+| Hashing trick | [“Feature hashing for large scale multitask learning,” in Proceedings of the 26th annual international conference on machine learning, 2009, pp. 1113–1120.](https://dl.acm.org/doi/abs/10.1145/1553374.1553516) |  |
+| Bloom embedding/Recsys | [“Getting deep recommenders fit: Bloom embeddings for sparse binary input/output networks,” in Proceedings of the Eleventh ACM Conference on Recommender Systems, 2017, pp. 279–287](https://dl.acm.org/doi/abs/10.1145/3109859.3109876) |  |
+| Hash embeddings/Neurips | [“Hash embeddings for efficient word representations,” Advances in neural information processing systems, vol. 30, 2017.](https://proceedings.neurips.cc/paper/2017/hash/f0f6ba4b5e0000340312d33c212c3ae8-Abstract.html) |  |
+| Hybrid hashing /Recsys| [“Model size reduction using frequency based double hashing for recommender systems,” in Fourteenth ACM Conference on Recommender Systems, 2020, pp. 521–526.](https://dl.acm.org/doi/abs/10.1145/3383313.3412227) |  |
+|  Q-R trick/ | [“Compositional embeddings using complementary partitions for memory-efficient recommendation systems,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 165–175.](https://dl.acm.org/doi/abs/10.1145/3394486.3403059) |  |
+| BH/CIKM | [“Binary code based hash embedding for web-scale applications,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 3563–3567.](https://dl.acm.org/doi/abs/10.1145/3459637.3482065) |  |
+| DHE/KDD | [“Learning to embed categorical features without embedding tables for recommendation,” arXiv preprint arXiv:2010.10784, 2020.](https://arxiv.org/abs/2010.10784) |  |
 |  | []() |  |
 |  | []() |  |
 
