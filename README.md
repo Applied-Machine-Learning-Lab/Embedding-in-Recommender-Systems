@@ -155,7 +155,7 @@
 5. A. K. Qin, V. L. Huang, and P. N. Suganthan, “Differential evolution algorithm with strategy adaptation for global numerical optimization,” IEEE transactions on Evolutionary Computation, vol. 13, no. 2, pp. 398–417, 2008.
 6. “Automl for deep recommender systems: A survey,” arXiv preprint arXiv:2203.13922,2022.
 7. B. Chen, X. Zhao, Y. Wang, W. Fan, H. Guo, and R. Tang, “Automated machine learning for deep recommender systems: A survey,” ArXiv, vol. abs/2204.01390, 2022.
-8. J. Yu, H. Yin, X. Xia, T. Chen, J. Li, and Z. Huang, “Selfsupervised learning for recommender systems: A survey,” arXiv preprint arXiv:2203.15876, 2022.
+8. J. Yu, H. Yin, X. Xia, T. Chen, J. Li, and Z. Huang, “Selfsupervised learning for recommender systems: A survey,” arXiv:2203.15876, 2022.
 9. N. M. Nasrabadi and R. A. King, “Image coding using vector quantization: A review,” IEEE Transactions on communications, vol. 36,no. 8, pp. 957–971, 1988.
 10. S. T. Ali and M. Englis, “Quantization methods: a guide for physicists and analysts,” Reviews in Mathematical Physics, vol. 17, no. 04, pp. 391–490, 2005.
 11. T.-C. Lu and C.-C. Chang, “A survey of vq codebook generation.” J. Inf. Hiding Multim. Signal Process., vol. 1, no. 3, pp. 190–203, 2010.
