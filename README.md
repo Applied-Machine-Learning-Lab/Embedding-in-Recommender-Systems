@@ -39,7 +39,7 @@
 | Hash embeddings/Neurips | [“Hash embeddings for efficient word representations,” Advances in neural information processing systems, vol. 30, 2017.](https://proceedings.neurips.cc/paper/2017/hash/f0f6ba4b5e0000340312d33c212c3ae8-Abstract.html) | [tf](https://github.com/dsv77/hashembedding) |
 | Hybrid hashing /Recsys| [“Model size reduction using frequency based double hashing for recommender systems,” in Fourteenth ACM Conference on Recommender Systems, 2020, pp. 521–526.](https://dl.acm.org/doi/abs/10.1145/3383313.3412227) | - |
 |  Q-R trick/ | [“Compositional embeddings using complementary partitions for memory-efficient recommendation systems,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 165–175.](https://dl.acm.org/doi/abs/10.1145/3394486.3403059) | [official(torch)](https://github.com/facebookresearch/dlrm) |
-| BH/CIKM | [“Binary code based hash embedding for web-scale applications,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 3563–3567.](https://dl.acm.org/doi/abs/10.1145/3459637.3482065) | []() |
+| BH/CIKM | [“Binary code based hash embedding for web-scale applications,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 3563–3567.](https://dl.acm.org/doi/abs/10.1145/3459637.3482065) | - |
 | DHE/KDD | [“Learning to embed categorical features without embedding tables for recommendation,” arXiv preprint arXiv:2010.10784, 2020.](https://arxiv.org/abs/2010.10784) | []() |
 
 
@@ -47,18 +47,18 @@
 ## AutoML
 | Name | Paper | code |
 | :-----| :-----| :----- |
-| NIS/KDD | [“Neural input search for large scale recommendation models,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 2387–2397.](https://dl.acm.org/doi/abs/10.1145/3394486.3403288) |  |
-| ESAPN/SIGIR | [“Automated embedding size search in deep recommender systems,” in Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020, pp. 2307–2316.](https://dl.acm.org/doi/abs/10.1145/3397271.3401436) |  |
-| DARTS/ICLR | [“Darts: Differentiable architecture search,” arXiv preprint arXiv:1806.09055, 2018.](https://arxiv.org/abs/1806.09055) |  |
-| DNIS| [“Differentiable neural input search for recommender systems,” arXiv preprint arXiv:2006.04466, 2020](https://arxiv.org/abs/2006.04466) |  |
-| AutoSrh/CIKM | [“Autoias: Automatic integrated architecture searcher for click-trough rate prediction,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 2101–2110]() |  |
-| AutoEMB/ICDM | [“Autoemb: Automated embedding dimensionality search in streaming recommendations,” in 2021 IEEE International Conference on Data Mining (ICDM).](https://ieeexplore.ieee.org/abstract/document/9679068) |  |
-| AutoDim/WWW | [“Autodim: Field-aware embedding dimension searchin recommender systems,” in Proceedings of the Web Conference 2021,2021, pp. 3015–3022.](https://ieeexplore.ieee.org/abstract/document/9679068) |  |
-| SSEDS/SIGIR | [“Single-shot embedding dimension search in recommender system,” arXiv preprint arXiv:2204.03281, 2022.](https://dl.acm.org/doi/abs/10.1145/3477495.3532060) |  |
-| RULE/KDD | [“Learning elastic embeddings for customizing on-device recommenders,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 138–147.](https://dl.acm.org/doi/abs/10.1145/3447548.3467220) |  |
-| PEP/ICLR | [“Learnable embedding sizes for recommender systems,” arXiv preprint arXiv:2101.07577, 2021.](https://arxiv.org/abs/2101.07577) |  |
-| ANT/ICLR | [“Anchor & transform: Learning sparse embeddings for large vocabularies,” arXiv preprint arXiv:2003.08197, 2020.](https://arxiv.org/abs/2003.08197) |  |
-| AutoDis/KDD | [“An embedding learning framework for numerical features in ctr prediction,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 2910–2918.]() |  |
+| NIS/KDD | [“Neural input search for large scale recommendation models,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 2387–2397.](https://dl.acm.org/doi/abs/10.1145/3394486.3403288) | - |
+| ESAPN/SIGIR | [“Automated embedding size search in deep recommender systems,” in Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020, pp. 2307–2316.](https://dl.acm.org/doi/abs/10.1145/3397271.3401436) | [torch](https://github.com/zgahhblhc/ESAPN) |
+| DARTS/ICLR | [“Darts: Differentiable architecture search,” arXiv preprint arXiv:1806.09055, 2018.](https://arxiv.org/abs/1806.09055) | [torch](https://github.com/khanrc/pt.darts) |
+| DNIS| [“Differentiable neural input search for recommender systems,” arXiv preprint arXiv:2006.04466, 2020](https://arxiv.org/abs/2006.04466) | - |
+| AutoSrh/CIKM | [“Autoias: Automatic integrated architecture searcher for click-trough rate prediction,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 2101–2110]() | - |
+| AutoEMB/ICDM | [“Autoemb: Automated embedding dimensionality search in streaming recommendations,” in 2021 IEEE International Conference on Data Mining (ICDM).](https://ieeexplore.ieee.org/abstract/document/9679068) | - |
+| AutoDim/WWW | [“Autodim: Field-aware embedding dimension searchin recommender systems,” in Proceedings of the Web Conference 2021,2021, pp. 3015–3022.](https://ieeexplore.ieee.org/abstract/document/9679068) | - |
+| SSEDS/SIGIR | [“Single-shot embedding dimension search in recommender system,” arXiv preprint arXiv:2204.03281, 2022.](https://dl.acm.org/doi/abs/10.1145/3477495.3532060) | - |
+| RULE/KDD | [“Learning elastic embeddings for customizing on-device recommenders,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 138–147.](https://dl.acm.org/doi/abs/10.1145/3447548.3467220) | - |
+| PEP/ICLR | [“Learnable embedding sizes for recommender systems,” arXiv preprint arXiv:2101.07577, 2021.](https://arxiv.org/abs/2101.07577) | [torch](https://github.com/ssui-liu/learnable-embed-sizes-for-RecSys) |
+| ANT/ICLR | [“Anchor & transform: Learning sparse embeddings for large vocabularies,” arXiv preprint arXiv:2003.08197, 2020.](https://arxiv.org/abs/2003.08197) | - |
+| AutoDis/KDD | [“An embedding learning framework for numerical features in ctr prediction,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 2910–2918.]() | [official](https://github.com/mindspore-ai/models/tree/master/research/recommend/autodis) |
 
 
 
