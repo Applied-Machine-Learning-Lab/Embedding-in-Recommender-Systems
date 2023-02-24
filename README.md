@@ -151,6 +151,6 @@
 | Name | Paper | code |
 | :-----| :-----| :----- |
 ## Survey
-1.A survey of vq codebook generation
+## 1.A survey of vq codebook generation
 
 
