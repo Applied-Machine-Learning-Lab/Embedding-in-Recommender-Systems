@@ -147,10 +147,20 @@
 | GEAR/WSDM | [“Learning fair node representations with graph counterfactual fairness,” in Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining, 2022](https://dl.acm.org/doi/10.1145/3488560.3498391) |-|
 
 
-## Application
-| Name | Paper | code |
-| :-----| :-----| :----- |
 ## Survey
-## 1.A survey of vq codebook generation
+1. D. kumar Bokde, S. Girase, and D. Mukhopadhyay, “Role of matrix factorization model in collaborative filtering algorithm: A survey,”CoRR, abs/1503.07475, 2015.
+2. M. H. Abdi, G. Okeyo, and R. W. Mwangi, “Matrix factorization techniques for context-aware collaborative filtering recommender systems: A survey,” 2018.
+3. W.-S. Chen, Q. Zeng, and B. Pan, “A survey of deep nonnegative matrix factorization,” Neurocomputing, vol. 491, pp. 305–320, 2022.
+4. L. P. Kaelbling, M. L. Littman, and A. W. Moore, “Reinforcement learning: A survey,” Journal of artificial intelligence research, vol. 4, pp. 237–285, 1996.
+5. A. K. Qin, V. L. Huang, and P. N. Suganthan, “Differential evolution algorithm with strategy adaptation for global numerical optimization,” IEEE transactions on Evolutionary Computation, vol. 13, no. 2, pp. 398–417, 2008.
+6. “Automl for deep recommender systems: A survey,” arXiv preprint arXiv:2203.13922,2022.
+7. B. Chen, X. Zhao, Y. Wang, W. Fan, H. Guo, and R. Tang, “Automated machine learning for deep recommender systems: A survey,” ArXiv, vol. abs/2204.01390, 2022.
+8. J. Yu, H. Yin, X. Xia, T. Chen, J. Li, and Z. Huang, “Selfsupervised learning for recommender systems: A survey,” arXiv preprint arXiv:2203.15876, 2022.
+9. N. M. Nasrabadi and R. A. King, “Image coding using vector quantization: A review,” IEEE Transactions on communications, vol. 36,no. 8, pp. 957–971, 1988.
+10. S. T. Ali and M. Englis, “Quantization methods: a guide for physicists and analysts,” Reviews in Mathematical Physics, vol. 17, no. 04, pp. 391–490, 2005.
+11. T.-C. Lu and C.-C. Chang, “A survey of vq codebook generation.” J. Inf. Hiding Multim. Signal Process., vol. 1, no. 3, pp. 190–203, 2010.
+12. A. Ramanan and M. Niranjan, “A review of codebook models in patchbased visual object recognition,” Journal of Signal Processing Systems, vol. 68, no. 3, pp. 333–352, 2012.
+13. N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, and A. Galstyan, “A survey on bias and fairness in machine learning,” ACM Computing Surveys (CSUR), vol. 54, no. 6, pp. 1–35, 2021.
+
 
 
