@@ -40,7 +40,7 @@
 | Hybrid hashing /Recsys| [“Model size reduction using frequency based double hashing for recommender systems,” in Fourteenth ACM Conference on Recommender Systems, 2020, pp. 521–526.](https://dl.acm.org/doi/abs/10.1145/3383313.3412227) | - |
 |  Q-R trick/KDD | [“Compositional embeddings using complementary partitions for memory-efficient recommendation systems,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 165–175.](https://dl.acm.org/doi/abs/10.1145/3394486.3403059) | [official(torch)](https://github.com/facebookresearch/dlrm) |
 | BH/CIKM | [“Binary code based hash embedding for web-scale applications,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 3563–3567.](https://dl.acm.org/doi/abs/10.1145/3459637.3482065) | - |
-| DHE/KDD | [“Learning to embed categorical features without embedding tables for recommendation,” arXiv preprint arXiv:2010.10784, 2020.](https://arxiv.org/abs/2010.10784) | []() |
+| DHE/KDD | [“Learning to embed categorical features without embedding tables for recommendation,” arXiv preprint arXiv:2010.10784, 2020.](https://arxiv.org/abs/2010.10784) | - |
 
 
 
