@@ -45,20 +45,22 @@
 
 
 ## AutoML
-| Name | Paper | code |
-| :-----| :-----| :----- |
-| NIS/KDD | [“Neural input search for large scale recommendation models,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 2387–2397.](https://dl.acm.org/doi/abs/10.1145/3394486.3403288) | - |
-| ESAPN/SIGIR | [“Automated embedding size search in deep recommender systems,” in Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020, pp. 2307–2316.](https://dl.acm.org/doi/abs/10.1145/3397271.3401436) | [torch](https://github.com/zgahhblhc/ESAPN) |
-| DARTS/ICLR | [“Darts: Differentiable architecture search,” arXiv preprint arXiv:1806.09055, 2018.](https://arxiv.org/abs/1806.09055) | [torch](https://github.com/khanrc/pt.darts) |
-| DNIS| [“Differentiable neural input search for recommender systems,” arXiv preprint arXiv:2006.04466, 2020](https://arxiv.org/abs/2006.04466) | - |
-| AutoSrh/CIKM | [“Autoias: Automatic integrated architecture searcher for click-trough rate prediction,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 2101–2110]() | - |
-| AutoEMB/ICDM | [“Autoemb: Automated embedding dimensionality search in streaming recommendations,” in 2021 IEEE International Conference on Data Mining (ICDM).](https://ieeexplore.ieee.org/abstract/document/9679068) | - |
-| AutoDim/WWW | [“Autodim: Field-aware embedding dimension searchin recommender systems,” in Proceedings of the Web Conference 2021,2021, pp. 3015–3022.](https://ieeexplore.ieee.org/abstract/document/9679068) | - |
-| SSEDS/SIGIR | [“Single-shot embedding dimension search in recommender system,” arXiv preprint arXiv:2204.03281, 2022.](https://dl.acm.org/doi/abs/10.1145/3477495.3532060) | - |
-| RULE/KDD | [“Learning elastic embeddings for customizing on-device recommenders,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 138–147.](https://dl.acm.org/doi/abs/10.1145/3447548.3467220) | - |
-| PEP/ICLR | [“Learnable embedding sizes for recommender systems,” arXiv preprint arXiv:2101.07577, 2021.](https://arxiv.org/abs/2101.07577) | [torch](https://github.com/ssui-liu/learnable-embed-sizes-for-RecSys) |
-| ANT/ICLR | [“Anchor & transform: Learning sparse embeddings for large vocabularies,” arXiv preprint arXiv:2003.08197, 2020.](https://arxiv.org/abs/2003.08197) | - |
-| AutoDis/KDD | [“An embedding learning framework for numerical features in ctr prediction,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 2910–2918.]() | [official](https://github.com/mindspore-ai/models/tree/master/research/recommend/autodis) |
+| Name | Remarks|Paper | code |
+| :-----| :-----|:-----| :----- |
+| NIS/KDD | The first work of embedding dimension search (EDS) by reinforcement learning, where the controller directly selects the embedding size. |[“Neural input search for large scale recommendation models,” in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2020, pp. 2387–2397.](https://dl.acm.org/doi/abs/10.1145/3394486.3403288) | - |
+| ESAPN/SIGIR | Similar to the NIS, the controller decides whether to increase or maintain the embedding size.|[“Automated embedding size search in deep recommender systems,” in Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020, pp. 2307–2316.](https://dl.acm.org/doi/abs/10.1145/3397271.3401436) | [torch](https://github.com/zgahhblhc/ESAPN) |
+| DARTS/ICLR | The foundation of the gradient-based embedding size searching methods.|[“Darts: Differentiable architecture search,” arXiv preprint arXiv:1806.09055, 2018.](https://arxiv.org/abs/1806.09055) | [torch](https://github.com/khanrc/pt.darts) |
+| DNIS| To optimize the framework for EDS by gradient information, it introduces the soft selection layer, where it conducts a weighted summation of the candidate embedding size. | [“Differentiable neural input search for recommender systems,” arXiv preprint arXiv:2006.04466, 2020](https://arxiv.org/abs/2006.04466) | - |
+| AutoSrh/CIKM | It follows the pipeline of DNIS to make tabular data prediction. |[“Autoias: Automatic integrated architecture searcher for click-through rate prediction,” in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp. 2101–2110]() | - |
+| AutoEMB/ICDM | To improve the hard selection in ESAPN, it also designed the soft selection layer as a weighted sum operation. | [“Autoemb: Automated embedding dimensionality search in streaming recommendations,” in 2021 IEEE International Conference on Data Mining (ICDM).](https://ieeexplore.ieee.org/abstract/document/9679068) | - |
+| AutoDim/WWW |It extends the input to various feature fields and employs Gumbel-softmax tricks as a soft selection layer.|  ["Autodim: Field-aware embedding dimension searching recommender systems," in Proceedings of the Web Conference 2021,2021, pp. 3015–3022.](https://ieeexplore.ieee.org/abstract/document/9679068) | - |
+| AMTL/CIKM  |It aims to learn a mask matrix to tailor the embedding size.|  ["Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer" in Proceedings of the 30th ACM International Conference on Information & Knowledge Management, 2021, pp.3568-3572.](https://dl.acm.org/doi/abs/10.1145/3459637.3482130) | - |
+| SSEDS/SIGIR | Considering the high training costs of AMTL, It learns the mask matrix by computing the saliency score.  | [“Single-shot embedding dimension search in a recommender system,” arXiv preprint arXiv:2204.03281, 2022.](https://dl.acm.org/doi/abs/10.1145/3477495.3532060) | - |
+| RULE/KDD | It introduces the evolutionary algorithms to conduct EDS.|["Learning elastic embeddings for customizing on-device recommenders," in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 138–147.](https://dl.acm.org/doi/abs/10.1145/3447548.3467220) | - |
+| PEP/ICLR | Different from AMTL, PEP directly prune the embedding matrix by learning a threshold automatically.|[“Learnable embedding sizes for recommender systems,” arXiv preprint arXiv:2101.07577, 2021.](https://arxiv.org/abs/2101.07577) | [torch](https://github.com/ssui-liu/learnable-embed-sizes-for-RecSys) |
+| ANT/ICLR | It combines learnable anchor embedding matrices to form an optimal embedding matrix. |[“Anchor & transform: Learning sparse embeddings for large vocabularies,” arXiv preprint arXiv:2003.08197, 2020.](https://arxiv.org/abs/2003.08197) | - |
+| AutoDis/KDD | Different from the hard selection of anchor embedding in ANT, it designs a differentiable automatic discretization network to execute a soft selection of meta-embeddings. |[“An embedding learning framework for numerical features in ctr prediction,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 2910–2918.]() | [official](https://github.com/mindspore-ai/models/tree/master/research/recommend/autodis) | - |
+
 
 
 
