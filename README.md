@@ -88,7 +88,6 @@
 | PT-GNN/WSDM | [“Pre-training graph neural networks for cold-start users and items representation,” in Proceedings of the 14th ACM International Conference on Web Search and Data Mining, 2021, pp. 265–273.](https://dl.acm.org/doi/abs/10.1145/3437963.3441738) | [official(tf)](https://github.com/jerryhao66/Pretrain-Recsys) |
 
 ## Quantization
-| Name | Paper | code |
 | Name             | Paper                                                        | Remark                                                       | Year | Proceeding | Code                                                         |
 | :--------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------ |
 | DPR         | [Discrete personalized ranking for fast collaborative filtering from implicit feedback.](https://ojs.aaai.org/index.php/AAAI/article/view/10764) | DPR maps embeddings to binary codes by approximately optimizing AUC through a least-squares surrogate loss function,. | 2017 | AAAI       | -                                                            |
