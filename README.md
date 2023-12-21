@@ -160,7 +160,6 @@
 | ROLAND     | [Roland: graph learning framework for dynamic graphs.](https://dl.acm.org/doi/10.1145/3534678.3539300) | A method for learning dynamic graph representation.          | 2022 | KDD        | [code](https://github.com/andjelatodorovich/roland-river)    |
 | GEAR       | [Learning fair node representations with graph counterfactual fairness.](https://dl.acm.org/doi/10.1145/3488560.3498391) | A method for learning representation of fair graphs.         | 2022 | WSDM       | -                                                            |
 
-## Survey
 
 
 
