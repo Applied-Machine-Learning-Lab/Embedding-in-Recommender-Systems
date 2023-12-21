@@ -1,5 +1,9 @@
 # Embedding-in-Recommender-Systems
 
+## Survey (Continuously Updating)
+[Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023).](https://dl.acm.org/doi/10.1145/3637841)
+
+
 ## CF & MF
 | Name | Paper | code |
 | :-----| :-----| :----- |
