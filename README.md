@@ -2,7 +2,7 @@
 
 ## Survey (Continuously Updating)
 ### 2023
-1. Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023).[link](https://dl.acm.org/doi/10.1145/3637841)
+1. Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023). [link](https://dl.acm.org/doi/10.1145/3637841)
 ### Before 2023
 1. D. kumar Bokde, S. Girase, and D. Mukhopadhyay, “Role of matrix factorization model in collaborative filtering algorithm: A survey. IJAFRC 2015. [link](https://arxiv.org/ftp/arxiv/papers/1503/1503.07475.pdf)
 2. M. H. Abdi, G. Okeyo, and R. W. Mwangi, “Matrix factorization techniques for context-aware collaborative filtering recommender systems: A survey,” 2018. [link](https://dora.dmu.ac.uk/server/api/core/bitstreams/a95c914f-f2f8-4cc7-bf5e-78eee41c7036/content)
