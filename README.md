@@ -2,8 +2,21 @@
 
 ## Survey (Continuously Updating)
 ### 2023
-1. [Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023).](https://dl.acm.org/doi/10.1145/3637841)
-
+1. Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023).[link](https://dl.acm.org/doi/10.1145/3637841)
+### Before 2023
+1. D. kumar Bokde, S. Girase, and D. Mukhopadhyay, “Role of matrix factorization model in collaborative filtering algorithm: A survey. IJAFRC 2015. [link](https://arxiv.org/ftp/arxiv/papers/1503/1503.07475.pdf)
+2. M. H. Abdi, G. Okeyo, and R. W. Mwangi, “Matrix factorization techniques for context-aware collaborative filtering recommender systems: A survey,” 2018. [link](https://dora.dmu.ac.uk/server/api/core/bitstreams/a95c914f-f2f8-4cc7-bf5e-78eee41c7036/content)
+3. W.-S. Chen, Q. Zeng, and B. Pan, “A survey of deep nonnegative matrix factorization,” Neurocomputing, vol. 491, pp. 305–320, 2022. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003058)
+4. A. K. Qin, V. L. Huang, and P. N. Suganthan, “Differential evolution algorithm with strategy adaptation for global numerical optimization,” IEEE transactions on Evolutionary Computation, vol. 13, no. 2, pp. 398–417, 2008.
+5. Zheng, R., Qu, L., Cui, B., Shi, Y., & Yin, H. (2023). Automl for deep recommender systems: A survey. ACM Transactions on Information Systems, 41(4), 1-38.
+ [link](https://arxiv.org/pdf/2203.13922.pdf)
+6. B. Chen, X. Zhao, Y. Wang, W. Fan, H. Guo, and R. Tang, “Automated machine learning for deep recommender systems: A survey,” ArXiv, vol. abs/2204.01390, 2022. [link](https://arxiv.org/pdf/2204.01390.pdf)
+7. J. Yu, H. Yin, X. Xia, T. Chen, J. Li, and Z. Huang, “Selfsupervised learning for recommender systems: A survey,” TKDE 2022. [link](https://arxiv.org/pdf/2203.15876.pdf)
+8. N. M. Nasrabadi and R. A. King, “Image coding using vector quantization: A review,” IEEE Transactions on communications, vol. 36,no. 8, pp. 957–971, 1988. [link](https://ieeexplore.ieee.org/document/3776)
+9. S. T. Ali and M. Englis, “Quantization methods: a guide for physicists and analysts,” Reviews in Mathematical Physics, vol. 17, no. 04, pp. 391–490, 2005. [link](https://arxiv.org/abs/math-ph/0405065)
+10. T.-C. Lu and C.-C. Chang, “A survey of vq codebook generation.” J. Inf. Hiding Multim. Signal Process., vol. 1, no. 3, pp. 190–203, 2010. [link](https://bit.kuas.edu.tw/~jihmsp/2010/vol1/JIH-MSP-2010-03-004.pdf)
+11. A. Ramanan and M. Niranjan, “A review of codebook models in patchbased visual object recognition,” Journal of Signal Processing Systems, vol. 68, no. 3, pp. 333 352, 2012. [link](https://link.springer.com/article/10.1007/s11265-011-0622-x)
+12. N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, and A. Galstyan, “A survey on bias and fairness in machine learning,” ACM Computing Surveys (CSUR), vol. 54, no. 6, pp. 1–35, 2021. [link](https://arxiv.org/abs/1908.09635)
 
 ## CF & MF
 | Name | Paper | code |
@@ -148,20 +161,8 @@
 | GEAR       | [Learning fair node representations with graph counterfactual fairness.](https://dl.acm.org/doi/10.1145/3488560.3498391) | A method for learning representation of fair graphs.         | 2022 | WSDM       | -                                                            |
 
 ## Survey
-1. D. kumar Bokde, S. Girase, and D. Mukhopadhyay, “Role of matrix factorization model in collaborative filtering algorithm: A survey,”CoRR, abs/1503.07475, 2015.
-2. M. H. Abdi, G. Okeyo, and R. W. Mwangi, “Matrix factorization techniques for context-aware collaborative filtering recommender systems: A survey,” 2018.
-3. W.-S. Chen, Q. Zeng, and B. Pan, “A survey of deep nonnegative matrix factorization,” Neurocomputing, vol. 491, pp. 305–320, 2022.
-4. L. P. Kaelbling, M. L. Littman, and A. W. Moore, “Reinforcement learning: A survey,” Journal of artificial intelligence research, vol. 4, pp. 237–285, 1996.
-5. A. K. Qin, V. L. Huang, and P. N. Suganthan, “Differential evolution algorithm with strategy adaptation for global numerical optimization,” IEEE transactions on Evolutionary Computation, vol. 13, no. 2, pp. 398–417, 2008.
-6. “Automl for deep recommender systems: A survey,” arXiv preprint arXiv:2203.13922,2022.
-7. B. Chen, X. Zhao, Y. Wang, W. Fan, H. Guo, and R. Tang, “Automated machine learning for deep recommender systems: A survey,” ArXiv, vol. abs/2204.01390, 2022.
-8. J. Yu, H. Yin, X. Xia, T. Chen, J. Li, and Z. Huang, “Selfsupervised learning for recommender systems: A survey,” arXiv:2203.15876, 2022.
-9. N. M. Nasrabadi and R. A. King, “Image coding using vector quantization: A review,” IEEE Transactions on communications, vol. 36,no. 8, pp. 957–971, 1988.
-10. S. T. Ali and M. Englis, “Quantization methods: a guide for physicists and analysts,” Reviews in Mathematical Physics, vol. 17, no. 04, pp. 391–490, 2005.
-11. T.-C. Lu and C.-C. Chang, “A survey of vq codebook generation.” J. Inf. Hiding Multim. Signal Process., vol. 1, no. 3, pp. 190–203, 2010.
-12. A. Ramanan and M. Niranjan, “A review of codebook models in patchbased visual object recognition,” Journal of Signal Processing Systems, vol. 68, no. 3, pp. 333 352, 2012.
-13. N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, and A. Galstyan, “A survey on bias and fairness in machine learning,” ACM Computing Surveys (CSUR), vol. 54, no. 6, pp. 1–35, 2021.
-14. [Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023).](https://dl.acm.org/doi/10.1145/3637841)
+
+
 
 
 
