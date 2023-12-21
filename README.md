@@ -156,6 +156,8 @@
 11. T.-C. Lu and C.-C. Chang, “A survey of vq codebook generation.” J. Inf. Hiding Multim. Signal Process., vol. 1, no. 3, pp. 190–203, 2010.
 12. A. Ramanan and M. Niranjan, “A review of codebook models in patchbased visual object recognition,” Journal of Signal Processing Systems, vol. 68, no. 3, pp. 333 352, 2012.
 13. N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, and A. Galstyan, “A survey on bias and fairness in machine learning,” ACM Computing Surveys (CSUR), vol. 54, no. 6, pp. 1–35, 2021.
+14. [Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023).](https://dl.acm.org/doi/10.1145/3637841)
+
 
 
 
