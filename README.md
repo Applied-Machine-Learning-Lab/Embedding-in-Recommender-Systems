@@ -1,6 +1,6 @@
 # Embedding-in-Recommender-Systems (Continuously Updating) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository is consistent with [our survey paper](https://arxiv.org/pdf/2310.18608.pdf)’ Embedding in Recommender Systems: A Survey. ‘ If you find this work helpful, we would appreciate it if you could cite this collection in the following form:
+This repository is consistent with [our survey paper](https://arxiv.org/pdf/2310.18608.pdf)’ Embedding in Recommender Systems: A Survey. ‘ If you find this work helpful, we would appreciate it if you could cite our paper in the following form:
 ```
 @article{zhao2023embedding,
   title={Embedding in Recommender Systems: A Survey},
