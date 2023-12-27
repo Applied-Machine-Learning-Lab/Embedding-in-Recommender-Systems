@@ -1,6 +1,16 @@
-# Embedding-in-Recommender-Systems
+# Embedding-in-Recommender-Systems (Continuously Updating) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Survey (Continuously Updating)
+This repository is consistent with [our survey paper](https://arxiv.org/pdf/2310.18608.pdf)’ Embedding in Recommender Systems: A Survey. ‘ If you find this work helpful, we would appreciate it if you could cite this collection in the following form:
+```
+@article{zhao2023embedding,
+  title={Embedding in Recommender Systems: A Survey},
+  author={Zhao, Xiangyu and Wang, Maolin and Zhao, Xinjian and Li, Jiansheng and Zhou, Shucheng and Yin, Dawei and Li, Qing and Tang, Jiliang and Guo, Ruocheng},
+  journal={arXiv preprint arXiv:2310.18608},
+  year={2023}
+}
+```
+
+## Survey
 ### 2023
 1. Li, Shiwei, et al. "Embedding Compression in Recommender Systems: A Survey." ACM Computing Surveys (2023). [link](https://dl.acm.org/doi/10.1145/3637841)
 2. Zheng, R., Qu, L., Cui, B., Shi, Y., & Yin, H. (2023). Automl for deep recommender systems: A survey. ACM Transactions on Information Systems, 41(4), 1-38.
